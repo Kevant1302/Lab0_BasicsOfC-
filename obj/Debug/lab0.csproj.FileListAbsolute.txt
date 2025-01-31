@@ -1,0 +1,7 @@
+C:\Users\radhu\OneDrive\Desktop\Kevant\lab0\bin\Debug\lab0.exe.config
+C:\Users\radhu\OneDrive\Desktop\Kevant\lab0\bin\Debug\lab0.exe
+C:\Users\radhu\OneDrive\Desktop\Kevant\lab0\bin\Debug\lab0.pdb
+C:\Users\radhu\OneDrive\Desktop\Kevant\lab0\obj\Debug\lab0.csproj.AssemblyReference.cache
+C:\Users\radhu\OneDrive\Desktop\Kevant\lab0\obj\Debug\lab0.csproj.CoreCompileInputs.cache
+C:\Users\radhu\OneDrive\Desktop\Kevant\lab0\obj\Debug\lab0.exe
+C:\Users\radhu\OneDrive\Desktop\Kevant\lab0\obj\Debug\lab0.pdb
